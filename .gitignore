@@ -1,0 +1,33 @@
+## Ignore de C# / .NET / Visual Studio
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Microsoft Office temporary f
